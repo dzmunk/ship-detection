@@ -129,6 +129,3 @@ class ImageHandler:
 img = ImageHandler('s1a-iw-grd-vh-20160822t170151-20160822t170216-012716-013ff7-002.tiff')
 
 img.plotkasser((0,0),(5000,5000))
-
-
-
